@@ -1,8 +1,4 @@
 ﻿# xps-analytics-bi
 
 ## Purpose
-This repository is part of the XPS Intelligence ecosystem.
-
-## Source of truth
-The wiki explains the repository.
-The repository files define the repository.
+Analytics, KPI, BI, scorecards, and reporting layer for the XPS ecosystem.

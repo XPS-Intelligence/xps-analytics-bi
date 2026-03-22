@@ -1,7 +1,12 @@
-﻿# Architecture
+﻿# Analytics Architecture
 
-## Purpose
-Describe the role of this repository in the XPS ecosystem.
+## Responsibilities
+- KPI definitions
+- dashboards
+- scorecards
+- source quality reporting
+- rep performance views
+- ROI reporting
 
-## Next step
-Replace this with the real architecture for this repo.
+## Rule
+Consume trusted runtime data. Do not replace operational truth.
